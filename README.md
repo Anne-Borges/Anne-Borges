@@ -1,3 +1,5 @@
+![Sobre-mim](https://user-images.githubusercontent.com/107735972/174418786-0996ac93-0102-4ca0-b430-d9f5380c27e2.png)
+
 ### Olá Mundo!
 
 Sou a Ana Maria, mas podem me chamar de Anne, moro em Londrina - PR, sou estudante de Análise e Desenvolvimento de Sistemas. Sempre fui muito apaixonada e curiosa por tecnologia, por isso, hoje estou fazendo faculdade e cursos diversos, para transformar a paixão em carreira!
