@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá Mundo!
+
+Sou a Ana Maria, mas podem me chamar de Anne, moro em Londrina - PR, sou estudante de Análise e Desenvolvimento de Sistemas. Sempre fui muito apaixonada e curiosa por tecnologia, por isso, hoje estou fazendo faculdade e cursos diversos, para transformar a paixão em carreira!
+
+- 🤗 Status: Estudando e buscando uma oportunidade de adentrar na área dev.
+- 📖 Estudando: Análise e Desenvolvimento de Sistemas (Ampli), Front-End (Startse e Danki Code), Ruby (Danki Code).
+- 🙆🏻‍♂️ Profissional: Experiência em metodologias ágeis, foco no cliente, dentre outras...
+- 🎮 Curiosidades: Sou completamente louca por Jogos, animes, livros e animais fofos.
 
 <!--
 **Anne-Borges/Anne-Borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
