@@ -7,6 +7,15 @@ Sou a Ana Maria, mas podem me chamar de Anne, moro em Londrina - PR, sou estudan
 - 🙆🏻‍♂️ Profissional: Experiência em metodologias ágeis, foco no cliente, dentre outras...
 - 🎮 Curiosidades: Sou completamente louca por Jogos, animes, livros e animais fofos.
 
+<div>
+  
+  <a href="https://instagram.com/anamaria_b_o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/anne_eeee" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:anamariaborgesdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anamborgeso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
+
 <!--
 **Anne-Borges/Anne-Borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
